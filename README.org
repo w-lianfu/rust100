@@ -1,0 +1,11 @@
+#+TITLE: rust100
+#+AUTHOR: wlianfu
+#+DATE: 2023
+#+EMAIL: wlianfu@163.com
+#+OPTIONS: rust100
+
+-----
+
++ welcome
+
+-----
